@@ -59,3 +59,9 @@ If you discover a security vulnerability within Laravel, please send an e-mail t
 ## License
 
 The Laravel framework is open-sourced software licensed under the [MIT license](https://opensource.org/licenses/MIT).
+
+## Execute
+
+To execute this project, you can download it on [Project](https://github.com/medfassi20/WebApp.git).
+
+Then execute this command in you terminal (php artisan serve) then copy & paste this link (127.0.0.1:8080/products)
